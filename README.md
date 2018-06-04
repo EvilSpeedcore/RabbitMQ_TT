@@ -6,6 +6,7 @@ Source code from RabbitMQ tech talk.
 ### Prerequisites
 
 To run project you need Python 3.6 version or above to be installed on your computer.
+
 To install project requirements, simply use: 
 
 ```
@@ -14,6 +15,7 @@ pip install -U -r requirements.txt
 
 ## Sources
 
+* [RabbitMQ](https://www.rabbitmq.com/confirms.html) - Consumer Acknowledgements and Publisher Confirms 
 * [RabbitMQ](https://www.rabbitmq.com/nack.html) - Negative Acknowledgments
 * [RabbitMQ](http://www.rabbitmq.com/blog/2011/02/10/introducing-publisher-confirms/) - Publisher Confirms
 * [RabbitMQ](https://www.rabbitmq.com/persistence-conf.html) - Persistence Configuration
