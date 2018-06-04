@@ -30,7 +30,7 @@ pip install -U -r requirements.txt
 * [Github](https://github.com/eandersson/python-rabbitmq-examples/blob/master/Flask-examples/amqpstorm_threaded_rpc_client.py) - Flask and asynchronous RPC using pika
 * [Stackoverflow](https://stackoverflow.com/questions/28794123/ack-or-nack-in-rabbitmq) - Differences between acknowledgments 2
 * [Stackoverflow](https://stackoverflow.com/questions/6386117/rabbitmq-use-of-immediate-and-mandatory-bits) - Immidiate and mandatory messages
-* [Stackoverflow](https://stackoverflow.com/questions/42813355/does-pika-confirm-delivery-mean-confirm-when-broker-got-the-message-or-when-cons) - Does pika confirm_delivery mean confirm when broker got the message or when consumer acknowledged?
+* [Stackoverflow](https://stackoverflow.com/questions/42813355/does-pika-confirm-delivery-mean-confirm-when-broker-got-the-message-or-when-cons) - Confirm delivery explained
 
 ## Practice
 Make your own example of remote procedure call. Think about following problems and try to solve them:
