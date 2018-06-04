@@ -1,0 +1,13 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+certifi==2018.4.16
+chardet==3.0.4
+Faker==0.8.15
+idna==2.6
+pika==0.11.2
+python-dateutil==2.7.3
+requests==2.18.4
+selenium==3.12.0
+six==1.11.0
+text-unidecode==1.2
+urllib3==1.22

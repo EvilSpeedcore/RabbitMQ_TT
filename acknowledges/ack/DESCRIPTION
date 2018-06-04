@@ -1,0 +1,3 @@
+When the multiple field is set to true, RabbitMQ will acknowledge all outstanding delivery tags up to and including the tag specified in the acknowledgement.
+For example, given that there are delivery tags 5, 6, 7, and 8 unacknowledged on channel, when an acknowledgement frame arrives on that channel with delivery_tag set to 8 and multiple set to true, all tags from 5 to 8 will be acknowledged.
+If multiple was set to false, deliveries 5, 6, and 7 would still be unacknowledged.

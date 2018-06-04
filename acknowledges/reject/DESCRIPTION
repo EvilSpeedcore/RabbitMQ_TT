@@ -1,0 +1,3 @@
+Sometimes a consumer cannot process a delivery immediately but other instances might be able to. In this case it may be desired to requeue it and let another consumer receive and handle it. basic.reject and basic.nack are two protocol methods that are used for that.
+The methods are generally used to negatively acknowledge a delivery. Such deliveires can be discarded by the broker or requeued.
+This behaviour is controlled by the requeue field. When the field is set to true, the broker will requeue the delivery with the specified delivery tag.
