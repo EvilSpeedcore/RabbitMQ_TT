@@ -22,10 +22,10 @@ pip install -U -r requirements.txt
 * [RabbitMQ](https://www.rabbitmq.com/reliability.html) - Reliability Guide
 * [pika.readthedocs.io](http://pika.readthedocs.io/en/latest/examples/blocking_basic_get.html) - Using the Blocking Connection to get a message from RabbitMQ
 * [pika.readthedocs.io](http://pika.readthedocs.io/en/0.10.0/modules/channel.html) - Channel documentation
-* [Medium](https://medium.com/ibm-watson-data-lab/handling-failure-successfully-in-rabbitmq-22ffa982b60f) - Handling Failure Successfully in RabbitMQ
 * [jack-vanlightly.com](https://jack-vanlightly.com/blog/2017/3/10/rabbitmq-the-different-failures-on-basicpublish) - Types of Publishing Failures - RabbitMq Publishing Part 1
 * [jack-vanlightly.com](https://jack-vanlightly.com/blog/2017/3/11/sending-messages-in-bulk-and-tracking-delivery-status-rabbitmq-publishing-part-2) - Sending Messages in Bulk and Tracking Delivery Status - RabbitMq Publishing Part 2
 * [jack-vanlightly.com](https://jack-vanlightly.com/blog/2017/3/12/how-to-deal-with-unroutable-messages-rabbitmq-publishing-part-3) - How to Deal with Unroutable Messages - RabbitMq Publishing Part 3
+* [Medium](https://medium.com/ibm-watson-data-lab/handling-failure-successfully-in-rabbitmq-22ffa982b60f) - Handling Failure Successfully in RabbitMQ
 * [Github](https://github.com/LeanKit-Labs/wascally/issues/84) - Differences between acknowledgments 1
 * [Github](https://github.com/eandersson/python-rabbitmq-examples/blob/master/Flask-examples/amqpstorm_threaded_rpc_client.py) - Flask and asynchronous RPC using pika
 * [Stackoverflow](https://stackoverflow.com/questions/28794123/ack-or-nack-in-rabbitmq) - Differences between acknowledgments 2
