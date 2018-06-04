@@ -14,7 +14,7 @@ pip install -U -r requirements.txt
 ```
 
 ## Sources
-
+* [RabbitMQ](https://www.rabbitmq.com/getstarted.html) - RabbitMQ Tutorials
 * [RabbitMQ](https://www.rabbitmq.com/confirms.html) - Consumer Acknowledgements and Publisher Confirms 
 * [RabbitMQ](https://www.rabbitmq.com/nack.html) - Negative Acknowledgments
 * [RabbitMQ](http://www.rabbitmq.com/blog/2011/02/10/introducing-publisher-confirms/) - Publisher Confirms
