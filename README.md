@@ -31,3 +31,10 @@ pip install -U -r requirements.txt
 * [Stackoverflow](https://stackoverflow.com/questions/28794123/ack-or-nack-in-rabbitmq) - Differences between acknowledgments 2
 * [Stackoverflow](https://stackoverflow.com/questions/6386117/rabbitmq-use-of-immediate-and-mandatory-bits) - Immidiate and mandatory messages
 * [Stackoverflow](https://stackoverflow.com/questions/42813355/does-pika-confirm-delivery-mean-confirm-when-broker-got-the-message-or-when-cons) - Does pika confirm_delivery mean confirm when broker got the message or when consumer acknowledged?
+
+## Practice
+Make your own example of remote procedure call. Think about following problems and try to solve them:
+1. How should the client react if there are no servers running?
+2. Should a client have some kind of timeout for the RPC?
+3. If the server malfunctions and raises an exception, should it be forwarded to the client?
+4. Protecting against invalid incoming messages (e.g. checking bounds) before processing.
