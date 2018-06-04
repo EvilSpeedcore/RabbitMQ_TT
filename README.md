@@ -1,6 +1,6 @@
 # Message Acknowledgments and Remote Procedure Call in RabbitMQ
 
-Source code from RabbitMQ tech talk.
+Materials from RabbitMQ tech talk.
 
 
 ### Prerequisites
